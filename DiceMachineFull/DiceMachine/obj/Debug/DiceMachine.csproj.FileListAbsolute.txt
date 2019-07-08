@@ -1,0 +1,10 @@
+C:\Users\agust\source\repos\DiceMachine\DiceMachine\bin\Debug\DiceMachine.exe.config
+C:\Users\agust\source\repos\DiceMachine\DiceMachine\bin\Debug\DiceMachine.exe
+C:\Users\agust\source\repos\DiceMachine\DiceMachine\bin\Debug\DiceMachine.pdb
+C:\Users\agust\source\repos\DiceMachine\DiceMachine\obj\Debug\DiceMachine.csprojAssemblyReference.cache
+C:\Users\agust\source\repos\DiceMachine\DiceMachine\obj\Debug\DiceMachine.Form1.resources
+C:\Users\agust\source\repos\DiceMachine\DiceMachine\obj\Debug\DiceMachine.Properties.Resources.resources
+C:\Users\agust\source\repos\DiceMachine\DiceMachine\obj\Debug\DiceMachine.csproj.GenerateResource.cache
+C:\Users\agust\source\repos\DiceMachine\DiceMachine\obj\Debug\DiceMachine.csproj.CoreCompileInputs.cache
+C:\Users\agust\source\repos\DiceMachine\DiceMachine\obj\Debug\DiceMachine.exe
+C:\Users\agust\source\repos\DiceMachine\DiceMachine\obj\Debug\DiceMachine.pdb

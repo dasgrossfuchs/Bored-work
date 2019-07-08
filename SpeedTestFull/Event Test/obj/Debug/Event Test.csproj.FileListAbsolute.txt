@@ -1,0 +1,10 @@
+C:\Users\agust\source\repos\Event Test\Event Test\bin\Debug\Event Test.exe.config
+C:\Users\agust\source\repos\Event Test\Event Test\bin\Debug\Event Test.exe
+C:\Users\agust\source\repos\Event Test\Event Test\bin\Debug\Event Test.pdb
+C:\Users\agust\source\repos\Event Test\Event Test\obj\Debug\Event Test.csprojAssemblyReference.cache
+C:\Users\agust\source\repos\Event Test\Event Test\obj\Debug\Event_Test.Form1.resources
+C:\Users\agust\source\repos\Event Test\Event Test\obj\Debug\Event_Test.Properties.Resources.resources
+C:\Users\agust\source\repos\Event Test\Event Test\obj\Debug\Event Test.csproj.GenerateResource.cache
+C:\Users\agust\source\repos\Event Test\Event Test\obj\Debug\Event Test.csproj.CoreCompileInputs.cache
+C:\Users\agust\source\repos\Event Test\Event Test\obj\Debug\Event Test.exe
+C:\Users\agust\source\repos\Event Test\Event Test\obj\Debug\Event Test.pdb
